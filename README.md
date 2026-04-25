@@ -1,3 +1,5 @@
+![alt text](Project_Logo.png)
+
 # 📦 Parcel Management Dashboard (Excel + VBA)
 
 A secure, professional, and fully automated **Parcel Register & Reporting System** built using **Microsoft Excel with VBA**.
