@@ -169,6 +169,8 @@ One-click macro to:
 3. Use **Search Dashboard** to find, update, or delete records.
 4. Use **Print_Dashboard** to generate reports.
 5. Keep the VBA project locked to maintain integrity.
+6. The Worksheets protection password is "123456".
+7. Admin paswword to Update or Delete record is "admin123".
 
 ---
 
