@@ -1,4 +1,4 @@
-![alt text](Project_Logo.png)
+![alt text](Project_Logo.jpg)
 
 # 📦 Parcel Management Dashboard (Excel + VBA)
 
